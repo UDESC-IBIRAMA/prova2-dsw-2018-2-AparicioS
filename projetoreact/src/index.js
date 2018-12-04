@@ -22,6 +22,7 @@ function Relogio(props){
             </div>
             <div id="divFormulario" style="display: none">
                 <input type="text"/>
+                <button id="buttonImprime" style="margin-left: 5px" className="btn btn-primary">imprime</button>
 
             </div>
 
